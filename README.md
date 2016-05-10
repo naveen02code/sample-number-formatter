@@ -1,4 +1,4 @@
-# sample-number-formatter
+# sample-number-formatter 
 
 A small library that adds commas to numbers
 
