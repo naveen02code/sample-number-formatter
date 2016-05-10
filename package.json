@@ -1,0 +1,23 @@
+{
+  "name": "sample-number-formatter",
+  "version": "0.0.1",
+  "description": "node package for formatting number",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naveen02code/number-formatter.git"
+  },
+  "author": "naveen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/naveen02code/number-formatter/issues"
+  },
+  "homepage": "https://github.com/naveen02code/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
